@@ -6,7 +6,8 @@ public class nombre {
 		
 		System.out.println("Manuel Ibanez Astorga ");
 		System.out.println("erica diez");
-
+		System.out.println("creacion de rama 2");
+		System.out.println("creacion de rama 2");
 
 	}
 
